@@ -1,0 +1,6 @@
+﻿  App.cpp
+  MainForm.cpp
+C:\Users\elifv\source\repos\NeuralNetworkApp\NeuralNetworkApp\MainForm.cpp(192,12): warning C4101: 'value': yerel değişken başvurusu kaldırıldı
+C:\Users\elifv\source\repos\NeuralNetworkApp\NeuralNetworkApp\MainForm.cpp(191,9): warning C4101: 'idx': yerel değişken başvurusu kaldırıldı
+  Kod Üretiliyor...
+  NeuralNetworkApp.vcxproj -> C:\Users\elifv\source\repos\NeuralNetworkApp\x64\Debug\NeuralNetworkApp.exe
